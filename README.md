@@ -9,7 +9,7 @@ Software Engineering is the art and science of building, diagnosing and maintain
 Software engineering is important because it enables the creation of software applications and systems that power various aspects of modern life such as communication and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
--Development of programming languages such as C
+-Development of programming languages such as C.
 -The establishment of software engineering as a discipline in the 1960s.
 -The advent of structured programming in the 1970s.
 -The rise of agile methodologies in the 2000s
